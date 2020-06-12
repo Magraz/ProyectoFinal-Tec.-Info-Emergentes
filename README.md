@@ -13,6 +13,8 @@ que clasifica imágenes en 5 clases:
 
 Primeramente hay que instalar Anaconda https://www.anaconda.com/products/individual
 
+En el directorio de su preferencia clonamos este repositorio. Para facilitar la explicación asumiremos que el repositorio se clonó dentro un folder llamado ```Repo```
+
 Posteriormente hay que crear el ambiente de ejecución desde clasificadorWeb.yml en Anaconda para correr la aplicación web. En una la terminal de Anaconda ejecutamos:
 
 ```
@@ -20,4 +22,4 @@ conda env create -f clasificadorWeb.yml
 conda activate clasificadorWeb
 ```
 
-En el directorio de su preferencia clonamos este repositorio
+Ahora nos movemos al directorio lla
