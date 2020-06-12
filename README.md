@@ -48,3 +48,7 @@ Primeramente debemos elegir una imagen a clasificar presionando el botón "Choos
 
 ![alt text](https://github.com/Magraz/ProyectoFinal-Tec.-Info-Emergentes/blob/master/images/visuals.PNG "Resultado")
 
+Si accedemos a la página local http://localhost:5000/static/predict.html el proceso es el mismo al anterior, solo que ahora se presentan los resultados en forma de probabilidades por clase:
+
+![alt text](https://github.com/Magraz/ProyectoFinal-Tec.-Info-Emergentes/blob/master/images/no_visuals.PNG "Resultado")
+
