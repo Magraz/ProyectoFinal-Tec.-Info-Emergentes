@@ -11,7 +11,7 @@ que clasifica imágenes en 5 clases:
   <li> Bicicletas</li>
 </ul>
 
-#Instrucciones de ejecución
+## Instrucciones de ejecución
 
 Primeramente hay que instalar Anaconda https://www.anaconda.com/products/individual
 
