@@ -37,6 +37,6 @@ Estos comandos realizan la configuración necesaria para habilitar nuestro clasi
 * http://localhost:5000/static/predict_with_visuals.html Clasificador que los resultados a través de gráficas
 * http://localhost:5000/static/predict.html Clasificador que muestra las probabilidades de cada clase
 
- <b>NOTA:</> Estas páginas solo funcionan desde la computadora en la que se esta realizando esta configuración
+ <b>NOTA:</b> Estas páginas solo funcionan desde la computadora en la que se esta realizando esta configuración
 
 ## Ejecución esperada
