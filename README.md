@@ -40,3 +40,5 @@ Estos comandos realizan la configuración necesaria para habilitar nuestro clasi
  <b>NOTA:</b> Estas páginas solo funcionan desde la computadora en la que se esta realizando esta configuración
 
 ## Ejecución esperada
+Si accedemos a la página local http://localhost:5000/static/predict_with_visuals.html nos aparece la siguiente pantalla:
+
