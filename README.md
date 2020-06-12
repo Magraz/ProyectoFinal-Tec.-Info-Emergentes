@@ -11,4 +11,10 @@ que clasifica imágenes en 5 clases:
   <li> Bicicletas</li>
 </ul>
 
-Primeramente hay que instalar 
+Primeramente hay que instalar Anaconda https://www.anaconda.com/products/individual
+
+Posteriormente hay que crear el ambiente desde clasificadorWeb.yml en Anaconda para correr la aplicación web. En una la terminal de Anaconda.
+```
+conda env create -f clasificadorWeb.yml
+conda activate clasificadorWeb
+```
