@@ -28,4 +28,9 @@ Dentro de la misma terminal nos movemos al directorio ```Repositorios```  y ejec
 ```
 cd ProyectoFinal-Tec.-Info-Emergentes/flask_apps
 set FLASK_APP=predict_app.py
+flask run --host=0.0.0.0
 ```
+
+Estos comandos realizan la configuración necesaria para habilitar nuestro clasificador web. Para poder utilizar la aplicación web hay que accessar a cualquiera de las siguientes páginas locales:
+⋅⋅* ```http://localhost:5000/static/predict_with_visuals.html``` Clasificador que los resultados a través de gráficas
+⋅⋅* ```http://localhost:5000/static/predict.html``` Clasificador que muestra las probabilidaes de cada clase 
