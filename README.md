@@ -42,5 +42,5 @@ Estos comandos realizan la configuración necesaria para habilitar nuestro clasi
 ## Ejecución esperada
 Si accedemos a la página local http://localhost:5000/static/predict_with_visuals.html nos aparece la siguiente pantalla:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Magraz/ProyectoFinal-Tec.-Info-Emergentes/blob/master/images/start.PNG "Pantalla de inicio")
 
