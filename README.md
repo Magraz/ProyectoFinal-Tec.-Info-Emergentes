@@ -15,7 +15,9 @@ que clasifica imágenes en 5 clases:
 
 Primeramente hay que instalar Anaconda https://www.anaconda.com/products/individual
 
-En el directorio de su preferencia clonamos este repositorio. Para facilitar la explicación asumiremos que el repositorio se clonó dentro un folder llamado ```Repositorios```
+Descargamos este repositorio en formato .zip y lo extraemos en el directorio de su preferencia. Para facilitar la explicación asumiremos que el repositorio se extrajo dentro un folder llamado ```Repositorios```
+
+Ahora vamos al siguiente link https://drive.google.com/drive/folders/1T4qf0BOyZ01jhEav_0pJO5dsGeGnazcy?usp=sharing y descargamos el archivo ```VGG16_bikes_cars_trains_rollers_trucks.h5``` dentro del directorio ```Repositorios/ProyectoFinal-Tec.-Info-Emergentes```
 
 Posteriormente hay que crear el ambiente de ejecución de Anaconda con ayuda del archivo ```clasificadorWeb.yml``` para poder correr la aplicación web. En una terminal de Anaconda con permisos de administrador ejecutamos:
 
