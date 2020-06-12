@@ -44,3 +44,7 @@ Si accedemos a la página local http://localhost:5000/static/predict_with_visual
 
 ![alt text](https://github.com/Magraz/ProyectoFinal-Tec.-Info-Emergentes/blob/master/images/start.PNG "Pantalla de inicio")
 
+Primeramente debemos elegir una imagen a clasificar presionando el botón "Choose file", ya que este cargada la imagen presionamos el botón "Predict" y obtendremos un resultado como este:
+
+![alt text](https://github.com/Magraz/ProyectoFinal-Tec.-Info-Emergentes/blob/master/images/visuals.PNG "Resultado")
+
