@@ -17,7 +17,7 @@ Primeramente hay que instalar Anaconda https://www.anaconda.com/products/individ
 
 En el directorio de su preferencia clonamos este repositorio. Para facilitar la explicación asumiremos que el repositorio se clonó dentro un folder llamado ```Repositorios```
 
-Posteriormente hay que crear el ambiente de ejecución desde clasificadorWeb.yml en Anaconda para correr la aplicación web. En una terminal de Anaconda con permisos de administrador ejecutamos:
+Posteriormente hay que crear el ambiente de ejecución de Anaconda con ayuda del archivo ```clasificadorWeb.yml``` para poder correr la aplicación web. En una terminal de Anaconda con permisos de administrador ejecutamos:
 
 ```
 conda env create -f clasificadorWeb.yml
